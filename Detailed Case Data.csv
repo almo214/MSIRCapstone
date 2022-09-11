@@ -1,0 +1,334 @@
+Cyberincidentnum,Dyadpair,StateA,StateB,Victim,Name,interactionstartdate,interactionenddate,PVV,METH,TYPE,NRI,INT,ICT,DPPL,CPL,GFP,SEV
+399,732740,S Korea,Japan,S Korea,Island Dispute,3/20/2005,3/20/2005,8,2,11,19,44.1,30,1,0,14,2
+311,710740,China,Japan,Japan,WWII Memorial,1/6/2005,5/15/2005,10,2,11,14,66.9210661,16.95,1,1,18,2
+250,630666,Iran,Israel,Iran,Anti-semitic response,2/7/2006,2/7/2006,-6,1,17,123,17.37862386,11.95,0,0,7,2
+80,2710,US,China,US,Titan Rain,9/1/2003,4/1/2006,10,3,6,7,68.93119327,42.98,1,1,1,4
+82,2710,US,China,US,State Dept theft,5/28/2006,7/7/2006,10,3,11,7,68.93119327,42.98,1,1,1,2
+84,2710,US,China,US,Fred Wolf espionage,8/1/2006,8/1/2006,10,3,11,7,68.93119327,42.98,1,1,1,2
+85,2710,US,China,US,Commerce disable,10/1/2006,10/7/2006,10,4.1,11,7,68.93119327,42.98,1,1,1,2
+251,630666,Iran,Israel,Israel,Lebanese action propaganda,10/27/2006,10/27/2006,6,2,6,18,27.88107446,7.54,1,1,10,2
+86,2710,US,China,US,Naval War College disable,12/1/2006,12/7/2006,10,4.1,17,7,68.93119327,42.98,1,1,1,2
+187,365366,Russia,Estonia,Estonia,Defacement of govt websites,4/27/2007,5/10/2007,9,1,11,20,66.19,2.64,0,0,33,2
+188,365366,Russia,Estonia,Estonia,Defacement of private websites,4/27/2007,5/10/2007,9,1,11,20,66.19,2.64,0,0,33,2
+189,365366,Russia,Estonia,Estonia,DDoS of govt websites,4/27/2007,5/10/2007,9,2,11,20,66.19,2.64,0,0,33,2
+190,365366,Russia,Estonia,Estonia,DDoS of private websites,4/27/2007,5/10/2007,9,2,11,20,66.19,2.64,0,0,33,2
+293,652666,Syria,Israel,Syria,Operation Orchard 9/6/20079/7/2007,9/6/2007,9/7/2007,-7,3,13,110,93.31000185,3.09,0,1,33,4
+89,2710,US,China,US,Commerce Sec hack,12/1/2007,12/5/2007,10,4.2,11,4,75,38.82,1,1,1,3
+192,365368,Russia,Lithuania,Lithuania,Lithuanian Parliament_A,6/28/2008,7/2/2008,10,1,11,35,55.22,3.02,0,0,33,2
+193,365368,Russia,Lithuania,Lithuania,Lithuanian Parliament_B,6/28/2008,7/2/2008,10,1,11,35,55.22,3.02,0,0,33,2
+230,365372,Russia,Georgia,Russia,Osinform,8/4/2008,8/4/2008,4,2,11,74,32,0.17,1,0,2,2
+90,2710,US,China,US,2008 Campaign hack,8/1/2008,8/4/2008,10,3,11,3,74,37.32,1,1,1,1
+229,365372,Russia,Georgia,Georgia,Before the gunfire,8/4/2008,8/6/2008,6,2,11,88,10.01,0.37,0,0,33,2
+231,365372,Russia,Georgia,Georgia,VoiP/Telecom DDoS ,8/4/2008,8/8/2008,6,2,3,88,10.01,0.37,0,0,33,2
+4,2365,US,Russia,US,US govt employee in Georgia hacked,8/6/2008,8/12/2008,10,4.2,13,3,74,37.32,1,1,1,3
+356,731732,N Korea,S Korea,N Korea,Third Army Command breach,3/5/2007,9/2/2008,-10,4.2,1,135,44.1,38.32,0,0,18,1
+5,2365,US,Russia,US,Agent.bz/CENTCOM ,10/1/2008,10/15/2008,10,3,6,3,74,37.32,1,1,1,4
+408,750770,India,Pakistan,India,November 2008 defacements_B,11/15/2008,11/27/2008,9,1,11,54,4.38,0.97,1,0,4,2
+407,750770,India,Pakistan,Pakistan,November 2008 defacements_A,11/15/2008,11/27/2008,5,1,11,98,7,0.11,1,1,20,2
+6,2365,US,Russia,Russia,Buckshot Yankee,11/26/2008,11/28/2008,4,4.2,11,74,32,0.17,1,0,2,4
+409,750770,India,Pakistan,India,Transportation defacements,12/24/2008,12/25/2008,9,1,11,54,4.38,0.97,1,0,4,2
+253,630666,Iran,Israel,Israel,Cast Lead Retaliation,12/27/2008,12/27/2008,6,2,13,25,59.39,10.27,1,1,33,2
+93,2710,US,China,US,FAA hack,2/4/2009,2/10/2009,10,3,15,5,71,38.56,1,1,1,3
+94,2710,US,China,US,Seantor Nelson theft,3/1/2009,3/1/2009,10,3,11,5,71,38.56,1,1,1,2
+347,710840,China,Philippines,Philippines,Philippines hack,3/28/2009,3/30/2009,8,3,11,85,9,36.42,0,1,33,3
+95,2710,US,China,US,Lockheed F-35 plans stolen,3/29/2009,4/1/2009,10,3,6,5,71,38.56,1,1,1,3
+358,731732,N Korea,S Korea,N Korea,Fourth of July_B,7/4/2009,7/7/2009,-10,2,9,134,44.1,38.32,0,0,18,2
+394,731740,N Korea,Japan,N Korea,Fourth of July_C,7/4/2009,7/7/2009,-10,2,11,134,44.1,38.32,0,0,18,2
+140,2731,US,N Korea,US,Fourth of July_A,7/4/2009,7/7/2009,10,2,2,5,71,38.56,1,1,1,2
+359,731732,N Korea,S Korea,N Korea,Government shut down,7/6/2009,7/9/2009,-10,4.2,11,134,44.1,38.32,0,0,18,2
+323,710750,China,India,India,GhostNet_C,5/27/2007,8/1/2009,9,3,11,43,5.12,3.45,1,0,4,3
+298,710713,China,Taiwan,Taiwan,GhostNet_B,5/27/2007,8/1/2009,10,3,11,11,16.8,51.7,0,0,33,4
+88,2710,US,China,US,GhostNet_A,5/27/2007,8/1/2009,10,3,11,5,71,38.56,1,1,1,4
+8,2365,US,Russia,US,"Power grid hacked, traced to Russia",8/24/2009,8/24/2009,10,4.2,8,5,71,38.56,1,1,1,1
+98,2710,US,China,US,Commerce theft,11/1/2009,11/5/2009,10,4.4,11,5,71,38.56,1,1,1,3
+326,710750,China,India,India,Prime Minister's office hacked and info stolen,12/15/2009,12/15/2009,9,3,11,43,5.12,3.45,1,0,4,3
+52,2630,US,Iran,US,Twitter Hack,12/18/2009,12/18/2009,10,1,17,5,71,38.56,1,1,1,2
+324,710750,China,India,India,Shady RAT_C,7/1/2007,1/1/2010,9,3,11,43,7.5,2,1,0,4,3
+256,630666,Iran,Israel,Iran,Nuclear Facilities Virus,7/7/2009,1/1/2010,-7,4.2,14,134,59.39,10.27,1,0,18,2
+299,710713,China,Taiwan,Taiwan,Shady RAT_B,9/1/2007,1/1/2010,10,3,11,11,16.8,40.62,0,0,16,4
+83,2710,US,China,US,Shady RAT_A,8/1/2006,1/1/2010,10,3,11,5,71.69,38.07,1,1,1,4
+96,2710,US,China,US,Aurora ,6/1/2009,1/1/2010,10,3,13,5,71.69,38.07,1,1,1,3
+334,710816,China,Vietnam,Vietnam,Shady RAT_D,3/1/2007,1/1/2010,-7,3,11,54,30.65,0.95,1,1,33,3
+99,2710,US,China,US,Htran_A,1/1/2010,2/1/2010,10,4.4,0,5,71.69,38.07,1,1,1,3
+401,732740,S Korea,Japan,S Korea,SK hack,3/1/2010,3/1/2010,8,2,11,15,44.1,21.4,1,0,12,2
+402,732740,S Korea,Japan,S Korea,Japan retaliation,3/1/2010,3/1/2010,8,2,11,15,44.1,21.4,1,0,12,2
+53,2630,US,Iran,Iran,Iran network infiltration,3/14/2010,3/14/2010,-7,3,11,134,71,38.56,1,0,18,3
+327,710750,China,India,India,Indian MoD hack,4/2/2010,4/7/2010,9,4.2,11,43,7.5,2,1,0,4,3
+141,2731,US,N Korea,N Korea,NK Stuxnet,3/1/2010,4/30/2010,-10,4.3,14,134,71,38.56,0,0,20,5
+81,2710,US,China,China,Cisco Raider,2/28/2006,5/6/2010,-7,4.4,13,37,34.3,58.4,0,0,2,5
+48,2630,US,Iran,Iran,Stuxnet .5_A,11/1/2007,6/1/2010,-7,4.3,14,134,88.49890317,32.13,1,0,18,3
+252,630666,Iran,Israel,Iran,Stuxnet .5_B,11/1/2007,6/1/2010,-7,4.3,14,134,27.88107446,7.54,1,0,18,4
+360,731732,N Korea,S Korea,N Korea,Blue House attack,7/7/2010,7/8/2010,-10,2,11,134,44.1,38.32,0,0,20,2
+410,750770,India,Pakistan,India,September 2010 defacements 1,9/2/2010,9/12/2010,9,1,11,43,7.5,2,1,0,4,2
+411,750770,India,Pakistan,Pakistan,September 2010 defacements 2,9/2/2010,9/12/2010,6,1,11,87,8,9.2,1,1,15,2
+87,2710,US,China,US,"750,000 American zombies",3/1/2007,9/23/2010,10,2,2,5,71.69,38.07,1,1,1,2
+50,2630,US,Iran,Iran,Stuxnet_A,6/1/2009,10/1/2010,-7,4.3,14,134,88.49890317,32.13,1,0,18,6
+254,630666,Iran,Israel,Iran,Stuxnet_B,6/1/2009,10/1/2010,-7,4.3,14,134,59.39,10.27,1,0,18,6
+412,750770,India,Pakistan,India,PCA defacements,12/1/2010,12/3/2010,9,1,11,43,7.5,2,1,0,4,2
+413,750770,India,Pakistan,Pakistan,PCA retaliation,12/1/2010,12/3/2010,6,1,11,87,8,9.2,1,1,15,2
+361,731732,N Korea,S Korea,N Korea,Anti-Kim,1/4/2011,1/10/2011,-10,1,11,144,44.1,38.32,0,0,22,2
+362,731732,N Korea,S Korea,N Korea,NK retaliation,1/4/2011,1/10/2011,-10,1,11,144,44.1,38.32,0,0,22,2
+97,2710,US,China,US,Night Dragon,11/1/2009,2/11/2011,10,4.2,8,8,69.72946076,36.45,1,1,1,4
+1,2365,US,Russia,Russia,Regin malware campaign,2/1/2008,3/1/2011,4,3,13,56,58,0.24,1,0,2,4
+142,2731,US,N Korea,US,March DDoS 1,3/1/2011,3/4/2011,10,2,11,8,69.72946076,36.45,1,1,1,2
+363,731732,N Korea,S Korea,N Korea,March DDoS 2,3/7/2011,3/8/2011,-10,2,11,144,44.1,38.32,0,0,22,2
+105,2710,US,China,US,Penatgon Raid,3/1/2011,3/10/2011,10,4.4,11,8,69.72946076,36.45,1,1,1,3
+2,2365,US,Russia,Russia,QWERTY keystroke log,2/1/2008,3/11/2011,4,4.4,3,56,58,0.24,1,0,2,4
+403,732740,S Korea,Japan,S Korea,Earthquake hack,3/11/2011,3/14/2011,8,3,11,12,44.1,17.99,1,0,7,3
+54,2630,US,Iran,US,Comodo Hack,3/25/2011,3/27/2011,10,3,13,8,69.72946076,36.45,1,1,1,1
+364,731732,N Korea,S Korea,N Korea,Bank shut down,4/3/2011,4/3/2011,-10,4.2,9,144,44.1,38.32,0,0,22,2
+336,710816,China,Vietnam,Vietnam,Spratly Island dispute ,6/3/2011,6/6/2011,-7,4.2,11,83,35.07,0.95,1,1,33,3
+365,731732,N Korea,S Korea,N Korea,June DDoS,6/7/2011,6/7/2011,-10,2,9,144,44.1,38.32,0,0,22,2
+92,2710,US,China,US,Byzantine series,10/30/2008,6/30/2011,10,3,8,8,69.72946076,36.45,1,1,1,4
+78,2652,US,Syria,US,Hama visit,7/9/2011,7/9/2011,10,1,11,8,69.72946076,36.45,1,1,1,2
+414,750770,India,Pakistan,India,ICID defacement,10/1/2011,10/1/2011,9,1,11,69,10.07,2.18,1,0,4,2
+314,710740,China,Japan,Japan,Parliament Hack,10/25/2011,11/2/2011,10,3,11,18,79.05411352,9.23,1,1,9,3
+107,2710,US,China,US,White House theft,11/7/2011,11/8/2011,10,4.4,11,8,69.72946076,36.45,1,1,1,3
+49,2630,US,Iran,Iran,Snowglobe,4/2/2008,12/1/2011,-7,3,17,104,88.49890317,32.13,1,0,12,4
+56,2630,US,Iran,Iran,Duqu_A,9/11/2011,12/1/2011,-7,3,14,104,71.4,33.51,1,0,12,3
+257,630666,Iran,Israel,Iran,Duqu_B,9/11/2011,12/1/2011,-7,3,14,104,59.39,10.27,1,0,12,3
+366,731732,N Korea,S Korea,N Korea,December defacement,12/7/2011,12/7/2011,-10,1,2,144,44.1,38.32,0,0,22,2
+143,2731,US,N Korea,US,December defacement,12/7/2011,12/7/2011,10,1,14,8,69.72946076,36.45,1,1,1,2
+367,731732,N Korea,S Korea,N Korea,Telecom shut down,12/20/2011,12/20/2011,-10,3,2,144,44.1,38.32,0,0,22,2
+194,365368,Russia,Lithuania ,Lithuania ,Lithuanian Bank ,1/27/2012,1/28/2012,10,2,9,31,55.22,3.02,0,0,33,2
+102,2710,US,China,US,FDIC Hack,10/1/2010,2/2/2012,10,3,9,8,74.7,34.96,1,1,1,2
+233,365372,Russia,Georgia,Georgia,Georbot,3/1/2011,3/23/2012,6,2,11,86,36.94,3.17,1,0,33,3
+294,660666,Lebanon,Israel,Lebanon,Gauss,9/1/2011,8/8/2012,6,4.2,13,95,61.24978572,0.65,0,0,33,3
+276,630670,Iran,Saudi Arabia,Saudi Arabia,Shamoon,8/15/2012,8/16/2012,-10,4.1,8,34,54,7.18,0,0,33,6
+277,630670,Iran,Saudi Arabia,Saudi Arabia,RasGas Attack,8/20/2012,8/21/2012,-10,4.1,8,34,54,7.18,0,0,33,6
+315,710740,China,Japan,Japan,Senkaku Island Dispute,9/14/2012,9/17/2012,10,2,11,18,79.4964,9.15,1,1,17,2
+51,2630,US,Iran,Iran,Flame_A,6/1/2009,12/2/2012,-7,4.2,11,104,88.49890317,32.13,1,0,16,3
+255,630666,Iran,Israel,Iran,Flame_B,6/1/2009,12/2/2012,-7,4.2,14,104,59.39,10.27,1,0,16,3
+110,2710,US,China,US,Wen Jiabao Retaliation,10/26/2012,12/31/2012,10,3,17,8,74.7,34.96,1,1,1,2
+57,2630,US,Iran,US,Operation Ababil,12/28/2012,1/2/2013,10,2,9,9,71.4,33.51,1,1,1,2
+106,2710,US,China,US,Operation Beebus/APT 10,4/12/2011,2/7/2013,10,3,6,9,71.4,33.51,1,1,1,4
+417,750770,India,Pakistan,Pakistan,Telenor Pakistan incident,3/17/2013,3/17/2013,7,4.2,3,105,9,11,1,1,13,3
+368,731732,N Korea,S Korea,N Korea,Dark Seoul,1/26/2013,3/20/2013,-10,3,9,145,44.1,38.32,0,0,33,3
+369,731732,N Korea,S Korea,N Korea,Operation Troy ,3/20/2013,3/20/2013,-10,4.1,9,145,44.1,38.32,0,0,33,4
+55,2630,US,Iran,US,Operation Newscaster,4/15/2011,5/26/2013,10,3,2,9,71.4,33.51,1,1,1,2
+258,630666,Iran,Israel,Israel,Israel Infrastructure Hack,3/2/2013,6/8/2013,6,4.2,15,15,70.25031195,11.84,1,1,12,5
+100,2710,US,China,China,Shotgiant,3/10/2010,6/13/2013,-7,3,13,58,45.8,61.81,1,0,3,4
+416,750770,India,Pakistan,India,Tranchulas incident,2/1/2013,7/2/2013,9,4.2,11,68,12.3,1.59,1,0,4,3
+59,2630,US,Iran,US,Bowman Ave Dam,8/28/2013,9/18/2013,10,3,5,9,71.4,33.51,1,1,1,3
+313,710740,China,Japan,Japan,Icefog hack,9/1/2011,9/23/2013,10,3,6,21,88.21942891,8.64,1,1,13,3
+60,2630,US,Iran,US,NMCI hack,9/23/2013,9/25/2013,10,3,11,9,71.4,33.51,1,1,1,1
+104,2710,US,China,US,Energy Dept hack,2/1/2011,1/1/2014,10,3,8,7,73,32.33,1,1,1,3
+63,2630,US,Iran,US,Las Vegas Sands Hack,2/10/2014,2/12/2014,10,4.1,2,7,73,32.33,1,1,1,2
+115,2710,US,China,US,Operation SnowMan,2/1/2014,2/12/2014,10,3,11,7,73,32.33,1,1,1,1
+201,365369,Russia,Ukraine,Ukraine,CyberBerkut Telecom disruption,3/1/2014,3/15/2014,4,2,3,81,46.23597546,0.96,1,1,21,2
+61,2630,US,Iran,US,Saffron Rose,10/23/2013,3/15/2014,10,3,6,7,73,32.33,1,1,1,1
+163,200365,UK,Russia,UK,CyberBerkut NATO Websites_C,3/15/2014,3/25/2014,10,2,11,9,91.61,2.32,1,1,5,2
+12,2365,US,Russia,US,CyberBerkut NATO Websites_A,3/15/2014,3/26/2014,10,2,11,7,73,32.33,1,1,1,2
+160,20365,Canada,Russia,Canada,CyberBerkut NATO Websites_B,3/15/2014,3/27/2014,10,2,11,17,87.12,10.78,1,1,16,2
+337,710816,China,Vietnam,China,Ocean Lotus/APT 32,4/1/2012,5/1/2014,-7,4.3,11,62,47.9,63.31,1,0,3,4
+191,365368,Russia,Lithuania,Lithuania,Snake/Turla_A ,1/1/2005,5/8/2014,10,3,11,31,72.13,2.94,0,0,33,4
+197,365369,Russia,Ukraine,Ukraine,Snake/Turla_B ,1/1/2005,5/8/2014,4,3,11,81,46.23597546,0.96,1,1,21,4
+202,365369,Russia,Ukraine,Ukraine,CyberBerkut Ukraine Election Intrusion,5/22/2014,5/26/2014,4,2,11,81,46.23597546,0.96,1,1,21,2
+185,290365,Poland,Russia,Poland,Operation Pawn Storm_A,6/1/2014,6/30/2014,10,3,11,54,66.6,7.74,1,1,18,3
+159,20365,Canada,Russia,Canada,Russian Info Swipe_B,1/1/2011,7/1/2014,10,3,8,17,87.12,10.78,1,1,16,3
+162,200365,UK,Russia,UK,Russian Info Swipe_C,1/1/2011,7/1/2014,10,3,6,9,91.61,2.32,1,1,5,4
+9,2365,US,Russia,US,Russian Info Swipe_A,1/1/2011,7/1/2014,10,3,8,7,73,32.33,1,1,1,3
+15,2365,US,Russia,US,US Banks hacked,6/4/2014,7/8/2014,10,3,9,7,73,32.33,1,1,1,3
+419,750770,India,Pakistan,India,Press Club of India hack,10/8/2014,10/10/2014,9,1,2,83,13.5,0.97,1,0,4,2
+420,750770,India,Pakistan,Pakistan,Pakistan People's Party hack,10/9/2014,10/10/2014,7,1,11,111,10,1.31,1,1,15,2
+184,290365,Poland,Russia,Poland,Sandworm_B,1/1/2009,10/14/2014,10,3,2,54,66.6,7.74,1,1,18,4
+198,365369,Russia,Ukraine,Ukraine,Sandworm_C,1/1/2009,10/14/2014,4,3,8,81,46.23597546,0.96,1,1,21,2
+7,2365,US,Russia,US,Sandworm_A,1/1/2009,10/14/2014,10,3,1,7,73,32.33,1,1,1,4
+11,2365,US,Russia,US,Operation Pawn Storm/World Doping Agency,9/30/2013,10/22/2014,10,3,11,7,73,32.33,1,1,1,4
+234,365372,Russia,Georgia,Georgia,Georgia MOD Attack,9/1/2014,10/24/2014,7,3,11,60,44,0.88,1,0,33,3
+186,290365,Poland,Russia,Poland,CyberBerkut Polish Stock Exchange,10/23/2014,10/24/2014,10,1,11,54,66.6,7.74,1,1,18,2
+312,710740,China,Japan,Japan,Hikit_C,9/1/2008,10/27/2014,10,3,11,16,89.10683302,8.37,1,1,10,4
+300,710713,China,Taiwan,Taiwan,Hikit_B,9/1/2008,10/27/2014,10,3,11,14,16.8,40.39,0,0,17,4
+91,2710,US,China,US,Hikit_A,9/1/2008,10/27/2014,10,3,13,7,73,32.33,1,1,1,4
+16,2365,US,Russia,US,White House hack,10/26/2014,10/28/2014,10,3,11,7,73,32.33,1,1,1,3
+204,365369,Russia,Ukraine,Ukraine,CyberBerkut UKR MOD DDoS,10/1/2014,10/30/2014,4,2,11,81,46.23597546,0.96,1,1,21,2
+301,710713,China,Taiwan,China,TooHash,9/1/2013,11/3/2014,-7,3,3,62,47.9,63.31,1,0,3,3
+120,2710,US,China,US,DHS employee hack,11/6/2014,11/7/2014,10,3,11,7,73,32.33,1,1,1,3
+357,731732,N Korea,S Korea,N Korea,Dark Hotel_A,1/1/2008,11/9/2014,-10,4.2,11,149,44.1,38.32,0,0,33,4
+400,732740,S Korea,Japan,S Korea,Dark Hotel_B,1/1/2008,11/9/2014,8,3,12,10,44.1,19.79,1,1,9,4
+121,2710,US,China,US,USPS breach,11/8/2014,11/10/2014,10,3,15,7,73,32.33,1,1,1,3
+17,2365,US,Russia,US,State Dept hack,11/15/2014,11/17/2014,10,3,11,7,73,32.33,1,1,1,3
+206,365369,Russia,Ukraine,Ukraine,CyberBerkut Billboard Hack,11/20/2014,11/21/2014,4,1,11,81,46.23597546,0.96,1,1,21,2
+144,2731,US,N Korea,US,Sony Hack ,11/24/2014,11/25/2014,10,3,2,7,73,32.33,1,1,1,4
+14,2365,US,Russia,US,"Operation Pawn Storm: Nuclear power plants, newspapers",6/3/2014,12/1/2014,10,3,3,7,73,32.33,1,1,1,4
+338,710816,China,Vietnam,Vietnam,South China Sea #1,9/1/2013,12/1/2014,-7,3,11,84,41,63.31,1,1,33,3
+374,731732,N Korea,S Korea,N Korea,South Korea nuclear facility hack,12/9/2014,12/12/2014,-10,3,14,149,44.1,38.32,0,0,33,2
+179,255365,Germany,Russia,Germany,German steel mill degrade_A,2/3/2014,12/22/2014,10,3,4,12,86.19,4.52,0,1,7,3
+180,255365,Germany,Russia,Germany,German steel mill degrade_B,12/22/2014,12/24/2014,10,4.2,4,12,86.19,4.52,0,1,7,5
+200,365369,Russia,Ukraine,Ukraine,CyberBerkut UKR Gov Site Hack,1/1/2014,12/31/2014,4,2,11,81,46.23597546,0.96,1,1,21,2
+236,365640,Russia ,Turkey,Russia ,Russian DDoS Banks,11/25/2015,1/15/2015,7,2,9,41,44,0.88,1,0,2,2
+237,365640,Russia,Turkey,Turkey,Russian DDoS TUR Govt,11/25/2015,1/15/2015,3,2,11,48,44,1.8,1,1,10,2
+122,2710,US,China,US,Anthem Breach,12/10/2014,1/27/2015,10,3,12,7,74.55420245,32.55,1,1,1,3
+118,2710,US,China,US,Premera Blue Cross Breach,5/5/2014,1/29/2015,10,3,12,7,74.55420245,32.55,1,1,1,3
+203,365369,Russia,Ukraine,Ukraine,Operation Pawn Storm_B,6/1/2014,2/1/2015,4,3,11,71,48.88464368,0.82,1,1,25,3
+13,2365,US,Russia,US,Operation Pawn Storm: military networks (fake OWA),6/2/2014,2/1/2015,10,3,6,7,74.55420245,32.55,1,1,1,4
+113,2710,US,China,US,UConn Engineering Hack,9/24/2013,3/9/2015,10,3,17,7,74.55420245,32.55,1,1,1,3
+207,365369,Russia,Ukraine,Russia,SSUCounteraction,3/13/2015,3/15/2015,4,2,11,41,70.09924123,2.43,1,0,2,2
+19,2365,US ,Russia,US ,DoD breach,3/1/2015,3/15/2015,8,3,11,7,85.54442129,31.96,1,1,1,3
+117,2710,US,China,US,OPM Hack,3/15/2014,3/17/2015,10,3,11,7,74.55420245,32.55,1,1,1,4
+116,2710,US,China,US,Register.com breach,3/1/2014,3/18/2015,10,3,13,7,74.55420245,32.55,1,1,1,3
+123,2710,US,China,US,GitHub Hack,3/26/2015,3/31/2015,10,2,13,7,74.55420245,32.55,1,1,1,4
+175,220365,France,Russia,France,TV5Monde recon,1/23/2015,4/9/2015,10,3,2,26,78.00603771,3.55,1,1,6,3
+176,220365,France,Russia,France,TV5Monde degrade,4/7/2015,4/9/2015,10,4.2,2,26,78.00603771,3.55,1,1,6,5
+112,2710,US,China,US,Black Coffee/APT 17,4/1/2013,5/12/2015,10,3,13,7,74.55420245,32.55,1,1,1,1
+109,2710,US,China,US,Penn State Engineering breach,9/1/2012,5/15/2015,10,3,17,7,74.55420245,32.55,1,1,1,3
+325,710750,China,India,India,Territory attack_A,2/17/2009,5/30/2015,9,3,11,89,14.9,0.89,1,0,4,3
+345,710840,China,Philippines,Philippines,Territory attack_C,2/17/2009,5/30/2015,8,3,11,76,36.9,42.91,1,1,33,3
+346,710840,China,Philippines,Philippines,Hellsing disrutions,2/17/2009,5/30/2015,8,3,17,76,36.9,42.91,1,1,33,4
+335,710816,China,Vietnam,Vietnam,Territory attack_B,2/17/2009,5/30/2015,-7,3,11,85,45,0.95,1,1,33,3
+124,2710,US,China,US,United Airlines breach,5/25/2015,6/5/2015,10,3,15,7,74.55420245,32.55,1,1,1,3
+261,630666,Iran,Israel,Israel,Iranian multiple espionage,7/1/2014,6/14/2015,6,3,13,21,77.35208966,14.33,1,1,11,1
+279,630670,Iran,Saudi Arabia,Saudi Arabia,Iranian multiple espionage,7/1/2014,6/14/2015,-10,3,13,35,69.6162358,3.75,0,0,33,3
+263,630666,Iran,Israel,Israel,Iran/Hezbollah/Hamas,5/5/2015,6/15/2015,6,3,6,21,77.35208966,14.33,1,1,11,3
+103,2710,US,China,US,Intellectual Property Hack,11/3/2010,6/15/2015,10,3,4,7,74.55420245,32.55,1,1,1,3
+181,255365,Germany,Russia,Germany,Bundestag breach/Fancy Bear ,5/28/2015,6/18/2015,10,3,11,13,87.58979935,4.65,0,1,8,3
+280,630670,Iran,Saudi Arabia,Saudi Arabia,Saffron Rose SA,4/1/2015,6/24/2015,-10,3,13,35,69.6162358,3.75,0,0,33,4
+21,2365,US,Russia,US,JCS network breach,6/26/2015,6/28/2015,10,3,11,7,74.55420245,32.55,1,1,1,3
+260,630666,Iran,Israel,Iran,Duqu 2.0,6/1/2014,6/30/2015,-7,3,14,96,77.35208966,14.33,1,0,23,3
+421,750770,India,Pakistan,India,Financial Center DDoS,7/5/2015,7/7/2015,9,2,9,89,14.9,0.89,1,0,4,2
+119,2710,US,China,US,UCLA Health system breach,9/1/2014,7/25/2015,10,3,12,7,74.55420245,32.55,1,1,1,3
+316,710740,China,Japan,Japan,Blue Termite ,8/11/2014,8/6/2015,10,3,9,10,91.05802839,8.52,1,1,9,3
+101,2710,US,China,US,Dancing Panda ,4/1/2010,8/10/2015,10,3,11,7,74.55420245,32.55,1,1,1,4
+259,630666,Iran,Israel,Israel,Rocket Kitten_B,5/5/2014,9/6/2015,6,3,17,21,77.35208966,14.33,1,1,11,3
+278,630670,Iran,Saudi Arabia,Saudi Arabia,Rocket Kitten_C,5/5/2014,9/6/2015,-10,3,13,35,69.6162358,3.75,0,0,33,3
+241,630640,Iran,Turkey,Turkey,Rocket Kitten_A,5/5/2014,9/6/2015,3,3,17,48,73.09143462,1.8,1,1,10,3
+111,2710,US,China,US,Iron Tiger/APT 31,1/15/2013,9/16/2015,10,3,6,7,74.55420245,32.55,1,1,1,4
+228,365372,Russia,Georgia,Georgia,Duke Series_C,4/8/2008,9/17/2015,7,3,11,60,47.56975964,0.65,1,0,33,3
+199,365369,Russia,Ukraine,Ukraine,Duke Series_B,2/1/2013,9/17/2015,4,3,11,71,48.88464368,0.82,1,1,25,2
+3,2365,US,Russia,US,Duke Series_A,4/8/2008,9/17/2015,10,4.2,11,7,74.55420245,32.55,1,1,1,4
+373,731732,N Korea,S Korea,N Korea,Seoul subway hack,7/7/2014,10/5/2015,-10,3,15,144,44.1,38.32,0,0,33,3
+375,731732,N Korea,S Korea,N Korea,SK govt network breach,10/3/2015,10/20/2015,-10,3,11,144,44.1,38.32,0,0,33,3
+66,2630,US,Iran,US,State Dept phishing ,11/5/2015,11/24/2015,10,3,11,7,74.55420245,32.55,1,1,1,2
+239,365640,Russia,Turkey,Russia,Turkish retaliation banks ,1/1/2016,1/15/2016,4,2,9,41,73.09143462,0.6,1,0,2,2
+238,365640,Russia ,Turkey,Russia ,Turkish retaliation FSB,1/1/2016,1/15/2016,3,3,11,41,44,1.8,1,0,2,3
+302,710713,China,Taiwan,Taiwan,Election hack,8/4/2015,2/1/2016,10,3,17,19,47.9,43,0,0,19,2
+415,750770,India,Pakistan,India,2016 Crimson RAT,6/1/2012,2/11/2016,9,3,11,91,16.5,0.95,1,0,4,3
+370,731732,N Korea,S Korea,N Korea,OpTroy Defense Contractor breach,4/4/2013,2/15/2016,-10,4.2,9,140,44.1,38.32,0,0,25,4
+422,750770,India,Pakistan,India,Indian Revenue Service hack,3/5/2016,3/8/2016,9,3,11,91,16.5,0.95,1,0,4,2
+371,731732,N Korea,S Korea,N Korea,OnionDog,10/20/2013,3/9/2016,-10,3,8,140,44.1,38.32,0,0,25,3
+372,731732,N Korea,S Korea,N Korea,OD disrupt,10/20/2013,3/9/2016,-10,2,15,140,44.1,38.32,0,0,25,4
+418,750770,India,Pakistan,India,Seedoor phishing ,12/15/2013,3/17/2016,9,3,11,91,16.5,0.95,1,0,4,3
+349,710840,China,Philippines,Philippines,Philippines DOJ attacks,10/22/2015,3/31/2016,8,3,11,77,39.2,43.21,1,1,33,3
+262,630666,Iran,Israel,Israel,Prince of Persia_B,5/4/2015,4/30/2016,6,3,8,21,79.65312418,11.73,1,1,16,3
+64,2630,US,Iran,US,Prince of Persia_A,5/4/2015,4/30/2016,8,3,13,5,85.54442129,31.96,1,1,1,3
+329,710750,China,India,India,Nidiran,4/1/2014,6/1/2016,9,3,13,91,16.5,0.95,1,0,4,3
+330,710750,China,India,India,Suckfly,2/2/2016,6/13/2016,9,3,13,91,16.5,0.95,1,0,4,3
+328,710750,China,India ,India ,Mofang,2/4/2012,6/16/2016,9,3,8,91,7.5,2,1,0,4,3
+108,2710,US,China,US,Mofang,2/4/2012,6/16/2016,8,3,8,5,85.54442129,31.96,1,1,1,3
+165,200365,UK,Russia,UK,Brexit election meddling,4/23/2016,6/24/2016,8,3,11,8,94.77580063,4.8,1,1,6,4
+227,365372,Russia,Georgia,Georgia,Georgia GeoPol Attack,1/1/2007,7/15/2016,7,3,11,58,58.45928961,0.64,1,0,33,4
+205,365369,Russia,Ukraine,Ukraine,Fancy Bear (also APT 28 linked),10/6/2014,7/15/2016,4,3,11,64,53.0009696,0.95,1,1,33,4
+350,710840,China,Philippines,Philippines,SCS DDoS Spratly #1,7/1/2016,7/21/2016,8,2,11,77,39.2,43.21,1,1,33,2
+376,731732,N Korea,S Korea,N Korea,SK diplomat hack,5/1/2016,8/1/2016,-10,3,11,140,44.1,38.32,0,0,25,3
+377,731732,N Korea,S Korea,N Korea,South Korea diplomat hack,5/1/2016,8/1/2016,-10,3,11,140,44.1,38.32,0,0,25,3
+232,365372,Russia,Georgia,Georgia,Russo-Georgia Cyber Actions,8/5/2008,8/5/2016,7,1,11,58,58.45928961,0.64,1,0,33,2
+65,2630,US,Iran,Iran,ProjectSauron_C,9/2/2015,8/9/2016,-7,3,11,92,85.54442129,31.96,1,0,21,3
+22,2365,US,Russia,Russia,ProjectSauron_A,9/2/2015,8/9/2016,4,3,3,41,73.09143462,0.6,1,0,2,3
+23,2365,US,Russia,Russia,ProjectSauron_B,9/2/2015,8/9/2016,4,3,11,41,73.09143462,0.6,1,0,2,3
+18,2365,US,Russia,US,Yahoo breach 1,11/22/2014,9/22/2016,8,3,13,5,85.54442129,31.96,1,1,1,3
+378,731732,N Korea,S Korea,N Korea,Anderial,9/1/2016,9/30/2016,-10,3,11,140,44.1,38.32,0,0,25,3
+423,750770,India,Pakistan,India,Indian Army phishing campaign,10/6/2016,10/18/2016,9,3,11,91,16.5,0.95,1,0,4,3
+20,2365,US,Russia,US,2016 Presidential Election/Russia_1,6/15/2015,11/8/2016,8,3,11,5,85.54442129,31.96,1,1,1,4
+24,2365,US,Russia,US,2016 Presidential Election/Russia_2,4/3/2016,11/8/2016,8,3,11,5,85.54442129,31.96,1,1,1,4
+26,2365,US,Russia,US,PowerDuke/APT29,11/8/2016,11/10/2016,8,3,17,5,85.54442129,31.96,1,1,1,2
+27,2365,US,Russia,US,Think Tank Hack,11/8/2016,11/10/2016,8,3,17,5,85.54442129,31.96,1,1,1,2
+214,365369,Russia,Ukraine,Russia,Russian banking sector ,11/28/2016,12/2/2016,4,2,9,41,73.09143462,0.6,1,0,2,2
+379,731732,N Korea,S Korea,N Korea,SK MoD data theft,9/5/2016,12/6/2016,-10,3,11,140,44.1,38.32,0,0,25,4
+380,731732,N Korea,S Korea,N Korea,South Korea MoD data theft,9/5/2016,12/6/2016,-10,3,11,140,44.1,38.32,0,0,25,4
+146,2731,US,N Korea,US,US power company hacks,9/5/2016,12/6/2016,8,3,8,5,85.54442129,31.96,1,1,1,4
+317,710740,China,Japan,Japan,Sensitive Info Scrape B,11/26/2015,12/10/2016,10,3,9,10,93.18272128,8.31,1,1,7,3
+318,710740,China,Japan,Japan,EPS Awakens-Japan,11/26/2015,12/10/2016,10,3,9,10,93.18272128,8.31,1,1,7,3
+304,710713,China,Taiwan,Taiwan,Sensitive Info Scrape A,11/26/2015,12/10/2016,10,3,11,19,47.9,43,0,0,19,3
+305,710713,China,Taiwan,Taiwan,EPS Awakens-Taiwan,11/26/2015,12/10/2016,10,3,11,19,47.9,43,0,0,19,3
+213,365369,Russia,Ukraine,Ukraine,TeleBots Bank Heist,9/1/2016,12/15/2016,4,3,9,64,53.0009696,0.95,1,1,33,3
+10,2365,US,Russia,US,Yahoo breach 2,8/1/2013,12/15/2016,8,3,13,5,85.54442129,31.96,1,1,1,3
+215,365369,Russia,Ukraine,Ukraine,Kiev Power outage_A,12/17/2016,12/20/2016,4,4.2,8,64,53.0009696,0.95,1,1,33,5
+216,365369,Russia,Ukraine,Ukraine,Kiev Power outage_B,12/17/2016,12/20/2016,4,4.2,8,64,53.0009696,0.95,1,1,33,5
+208,365369,Russia,Ukraine,Ukraine,Sandworm/BlackEnery DDoS,12/24/2015,12/25/2016,4,2,3,64,53.0009696,0.95,1,1,33,5
+209,365369,Russia,Ukraine,Ukraine,Sandworm/BlackEnery Sabotage,12/24/2015,12/25/2016,4,4.2,3,64,53.0009696,0.95,1,1,33,5
+424,750770,India,Pakistan,India,NSG defacement_A,12/31/2016,1/2/2017,9,1,11,91,18.2,0.86,1,0,4,2
+425,750770,India,Pakistan,India,NSG defacement_B,12/31/2016,1/2/2017,9,1,11,91,18.2,0.86,1,0,4,2
+282,630670,Iran,Saudi Arabia,Saudi Arabia,Shamoon 2.0,11/27/2016,1/17/2017,-10,4.1,8,33,94.17559961,3.61,0,0,24,5
+266,630666,Iran,Israel,Israel,Electric Powder,4/1/2016,2/1/2017,6,3,8,21,81.58118359,10.77,1,1,15,2
+382,731732,N Korea,S Korea,N Korea,BitHumb Crypto Heist #1,2/1/2017,2/1/2017,-10,3,9,140,44.1,38.32,0,0,23,4
+264,630666,Iran,Israel,Israel,OilRig D,12/1/2015,2/15/2017,6,3,13,21,81.58118359,10.77,1,1,15,3
+265,630666,Iran,Israel,Israel,OilRig E,12/1/2015,2/15/2017,6,3,13,21,81.58118359,10.77,1,1,15,3
+281,630670,Iran,Saudi Arabia,Saudi Arabia,OilRig F,12/1/2015,2/15/2017,-10,3,13,33,94.17559961,3.61,0,0,24,3
+242,630640,Iran,Turkey,Turkey,OilRig C,12/1/2015,2/15/2017,-4,3,11,49,73.09143462,1.33,1,1,8,3
+212,365369,Russia,Ukraine,Ukraine,Operation BugDrop,6/1/2016,2/15/2017,4,3,17,64,58.88947945,0.93,1,1,33,4
+67,2630,US,Iran,US,OilRig A,12/1/2015,2/15/2017,8,3,13,5,87.27488917,32.75,1,1,1,3
+68,2630,US,Iran,US,OilRig B,12/1/2015,2/15/2017,8,3,11,5,87.27488917,32.75,1,1,1,3
+268,630666,Iran,Israel,Israel,Failed Missle system hack,2/1/2017,2/24/2017,6,3,6,21,81.58118359,10.77,1,1,15,0
+381,731732,N Korea,S Korea,N Korea,Bithumb_A,2/1/2017,2/28/2017,-10,4.2,9,140,44.1,38.32,0,0,23,4
+344,710830,China,Singapore,Singapore,Mindef hack,2/1/2017,2/28/2017,-2,4.2,6,1,84.45226789,32.02,1,1,33,3
+28,2365,US,Russia,US,Attack on DoD Officals,3/1/2017,3/15/2017,8,3,11,5,87.27488917,32.75,1,1,1,2
+270,630666,Iran,Israel,Israel,Iraian Word Processing Attack,4/19/2017,4/24/2017,6,3,6,21,81.58118359,10.77,1,1,15,3
+145,2731,US,N Korea,N Korea,US Left of Launch,11/10/2015,4/24/2017,-10,4.3,13,140,73,32.33,0,0,23,6
+309,710732,China,S Korea,China,BlockBuster Sequel China-South Korea,4/1/2017,4/30/2017,-7,3,6,83,54.3,67.27,1,0,3,3
+383,731732,N Korea,S Korea,N Korea,BlockBuster Sequel DPRK- S Korea,4/1/2017,4/30/2017,-10,3,6,140,44.1,38.32,0,0,23,3
+147,2731,US,N Korea,US,Fake Fundraiser,4/1/2017,4/30/2017,8,3,6,5,87.27488917,32.75,1,1,1,3
+177,220365,France,Russia,France,Macron campaign hack,12/12/2016,5/7/2017,10,3,17,26,80.50245972,2.21,1,1,5,3
+173,200731,UK,N Korea,UK,WannaCry- IK NHS,5/12/2017,6/1/2017,8,4.2,12,3,90.42455049,4.7,1,1,6,4
+210,365369,Russia,Ukraine,Ukraine,Petya_A,3/1/2016,6/1/2017,4,3,13,64,58.88947945,0.93,1,1,33,4
+211,365369,Russia,Ukraine,Ukraine,Petya_B ,3/1/2016,6/1/2017,4,4.1,13,64,58.88947945,0.93,1,1,33,4
+148,2731,US,N Korea,US,WannaCry- US Critical Infrastructure,5/12/2017,6/1/2017,8,4.2,13,5,87.27488917,32.75,1,1,1,4
+384,731732,N Korea,S Korea,N Korea,BitHumb Crypto Heist #2,6/29/2017,6/29/2017,-10,3,9,140,44.1,38.32,0,0,23,4
+164,200365,UK,Russia,UK,White Bear Toolset,2/1/2016,6/30/2017,8,3,11,3,90.42455049,4.7,1,1,6,3
+269,630666,Iran,Israel,Israel,Operation Wilted Tulip-Israel,3/1/2017,7/1/2017,6,3,11,21,81.58118359,10.77,1,1,15,3
+348,710840,China,Philippines,Philippines,Lotus Blossom_C,10/1/2015,7/1/2017,8,3,11,89,41.6,35.87,1,1,33,2
+303,710713,China,Taiwan,Taiwan,Lotus Blossom_A,10/1/2015,7/1/2017,10,3,11,29,47.9,43.82,0,0,18,2
+29,2365,US,Russia,US,Wolf Creek Phishing ,5/1/2017,7/1/2017,8,3,8,5,87.27488917,32.75,1,1,1,5
+339,710816,China,Vietnam,Vietnam,Lotus Blossom_B,10/1/2015,7/1/2017,-7,3,11,86,58.14,63.31,1,1,33,2
+149,2731,US,N Korea,US,KONNI,7/4/2017,7/6/2017,8,3,17,5,87.27488917,32.75,1,1,1,2
+271,630666,Iran,Israel,Israel,PuppyRat,7/27/2017,7/27/2017,6,3,8,21,81.58118359,10.77,1,1,15,3
+385,731732,N Korea,S Korea,N Korea,Bithumb_B,7/1/2017,7/31/2017,-10,4.2,9,140,44.1,38.32,0,0,23,4
+69,2630,US,Iran,US,Aviation Industry Hack,6/1/2016,9/20/2017,8,3,6,5,87.27488917,32.75,1,1,1,3
+153,2731,US,N Korea,US,Power Company Phishing,9/22/2017,10/11/2017,8,3,11,5,87.27488917,32.75,1,1,1,1
+218,365369,Russia,Ukraine,Ukraine,Bad Rabbit (Bunny),10/1/2017,10/24/2017,4,4,15,4,58.88947945,0.93,1,1,33,5
+126,2710,US,China,US,Dispute Portal Exploit,3/1/2017,10/30/2017,8,3,9,5,87.27488917,32.75,1,1,1,4
+166,200365,UK,Russia,UK,BlogURL Attack,7/1/2017,11/2/2017,8,3,17,3,90.42455049,4.7,1,1,6,2
+58,2630,US,Iran,US,Iranian Attacks against Universities US Pre17,1/1/2013,12/1/2017,8,3,17,5,87.27488917,32.75,1,1,1,4
+267,630666,Iran,Israel,Israel,Iran-Israel Shipping and Telcom,1/1/2017,12/31/2017,6,3,15,21,81.58118359,10.77,1,1,15,4
+319,710740,China,Japan,Japan,Operation Chessmaster,1/1/2017,12/31/2017,10,3,17,10,91.72654724,8.35,1,1,7,4
+243,630640,Iran,Turkey,Turkey,Iran-Turkey Shipping and Telcom,1/1/2017,12/31/2017,-4,3,3,49,73.09143462,1.33,1,1,8,4
+306,710713,China,Taiwan,Taiwan,Operation Soft Cell,9/1/2016,1/1/2018,10,3,13,26,47.9,42.54,0,0,24,3
+240,365732,Russia,S Korea,S Korea,Olympic Destroyer,12/1/2017,2/10/2018,8,2,11,17,73.09143462,27.84,1,1,7,2
+182,255365,Germany,Russia,Germany,Informationsverbund Infiltration,12/1/2017,3/1/2018,10,3,11,9,87.03711209,4.96,1,1,10,4
+283,630670,Iran,Saudi Arabia,Saudi Arabia,Tasnee Attack,1/1/2017,3/1/2018,-10,4.2,1,45,93.31000185,3.09,0,0,33,4
+130,2710,US,China,US,Sea Dragon,1/1/2018,3/1/2018,8,3,11,8,88.49890317,32.13,1,1,1,4
+351,710840,China,Philippines,Philippines,SCS DDoS #2,3/1/2018,3/8/2018,8,2,11,71,44.1,38.32,1,1,33,2
+62,2630,US,Iran,US,Univeristy hacks,12/20/2013,3/25/2018,8,3,17,8,88.49890317,32.13,1,1,1,3
+320,710740,China,Japan,Japan,Japan-NK Intelligence hack,9/1/2017,5/1/2018,10,3,6,12,91.28,8.11,1,1,8,3
+25,2365,US,Russia,US,World Doping Agency Hacks,9/16/2016,5/1/2018,8,3,11,8,88.49890317,32.13,1,1,1,3
+295,700770,Afghanistan,Pakistan,Afghanistan,Stealth Mango,4/1/2018,5/15/2018,-1,3,13,122,16.8,0.28,0,0,33,3
+386,731732,N Korea,S Korea,N Korea,Sejong Institute Hack,5/1/2018,5/30/2018,-10,3,17,122,44.1,38.32,0,0,18,2
+388,731732,N Korea,S Korea,N Korea,BitHumb Crypto Heist #3,6/19/2018,6/19/2018,-10,3,9,122,44.1,38.32,0,0,18,4
+220,365369,Russia,Ukraine,Ukraine,Ukranian biochemical research attack,3/1/2018,6/19/2018,4,3,1,67,62.55315539,0.98,1,1,33,3
+128,2710,US,China,US,Satelite and Telecom Company Hack,6/19/2017,6/19/2018,8,3,3,8,88.49890317,32.13,1,1,1,3
+387,731732,N Korea,S Korea,N Korea,Bithumb_C,6/1/2018,6/30/2018,-10,4.2,9,122,44.1,38.32,0,0,18,4
+217,365369,Russia,Ukraine,Ukraine,NotPetya_A,6/27/2017,7/1/2018,4,4.3,9,67,62.55315539,0.98,1,1,33,5
+30,2365,US,Russia,US,NotPetya_B,6/1/2017,7/1/2018,8,4.3,15,8,88.49890317,32.13,1,1,1,4
+31,2365,US,Russia,US,US Senator Hacking Attempt,8/1/2017,7/1/2018,8,3,11,8,88.49890317,32.13,1,1,1,1
+353,710900,China,Australia ,Australia ,2018 ANU Network Breach,3/1/2018,7/6/2018,8,3,17,13,44.1,38.32,1,1,21,3
+221,365369,Russia,Ukraine,Ukraine,VPNfilter,7/13/2018,7/13/2018,4,3,1,67,62.55315539,0.98,1,1,33,3
+35,2365,US,Russia,US,Senate Domain Attack,8/15/2018,8/22/2018,8,3,11,8,88.49890317,32.13,1,1,1,2
+36,2365,US,Russia,US,Senate Domain Attack-Think Tanks,8/15/2018,8/22/2018,8,3,17,8,88.49890317,32.13,1,1,1,2
+272,630666,Iran,Israel,Israel,Iranian Attacks against Universities 2018 Israel,8/1/2018,8/24/2018,6,4.4,17,22,83.73315696,11.6,1,1,16,3
+244,630640,Iran,Turkey,Turkey,Iranian Attacks against Universities 2018 Turkey,8/1/2018,8/24/2018,-4,4.4,17,51,73.09143462,1.24,1,1,9,3
+71,2630,US,Iran,US,Iranian Attacks against Universities US 2018,8/1/2018,8/24/2018,8,4.4,17,8,88.49890317,32.13,1,1,1,3
+219,365369,Russia,Ukraine,Ukraine,Orthodox Clergy Attack,10/16/2017,8/27/2018,4,3,17,67,62.55315539,0.98,1,1,33,2
+114,2710,US,China,US,CloudHopper,1/1/2014,9/1/2018,8,3,13,8,88.49890317,32.13,1,1,1,4
+129,2710,US,China,US,Navy Personnel Data Hack,11/1/2017,9/1/2018,8,3,11,8,88.49890317,32.13,1,1,1,4
+340,710816,China,Vietnam,Vietnam,South China Sea #2,8/1/2018,9/4/2018,-7,3,11,63,69.84792868,63.31,1,1,33,3
+39,2365,US,Russia,US,DoS Impersonation Hack,11/1/2018,11/16/2018,8,3,17,8,88.49890317,32.13,1,1,1,4
+245,630640,Iran,Turkey,Turkey,Iran-Turkey Shipping and Telcom II,11/1/2018,11/30/2018,-4,3,13,51,73.09143462,1.24,1,1,9,4
+38,2365,US,Russia,Russia,IRA wiper,11/1/2018,12/1/2018,4,4.1,11,48,80.86472187,0.47,1,0,2,4
+40,2365,US,Russia,US,2018 DNC Attack,11/14/2018,12/1/2018,8,3,11,8,88.49890317,32.13,1,1,1,2
+72,2630,US,Iran,US,Iran Sanctions Retribution,10/1/2018,12/1/2018,8,3,14,8,88.49890317,32.13,1,1,1,3
+150,2731,US,N Korea,US,Operation Sharpshooter .mil,9/1/2017,12/1/2018,8,3,11,8,88.49890317,32.13,1,1,1,4
+151,2731,US,N Korea,US,Operation Sharpshooter .gov,9/1/2017,12/1/2018,8,3,11,8,88.49890317,32.13,1,1,1,4
+152,2731,US,N Korea,US,Operation Sharpshooter .com,9/1/2017,12/1/2018,8,3,4,8,88.49890317,32.13,1,1,1,4
+223,365369,Russia,Ukraine,Ukraine,Ukrainian Judicial Authority ,12/3/2018,12/4/2018,4,3,11,67,62.55315539,0.98,1,1,33,0
+155,2731,US,N Korea,US,Stolen Pencil,5/1/2018,12/6/2018,8,3,17,8,88.49890317,32.13,1,1,1,3
+222,365369,Russia,Ukraine,Ukraine,Maritime Pre-attacks,10/25/2018,12/7/2018,4,3,15,67,62.55315539,0.98,1,1,33,3
+285,630670,Iran,Saudi Arabia,Saudi Arabia,Shamoon 3.0-Saipem,11/1/2018,12/13/2018,-10,4.1,8,45,93.31000185,3.09,0,0,33,5
